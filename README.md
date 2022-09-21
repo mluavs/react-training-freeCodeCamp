@@ -14,6 +14,7 @@ Essa foi a primeira vez que eu usei bootstrap pra estilização [^1] e achei man
 _próximos passos_:
 
 - Quero mudar as funcionalidades desse projeto pra que ele seja mais intessante e não só funcional do ponto de vista da escrita do código.
+![](ativos/gifemployee.gif)
 
 
 
